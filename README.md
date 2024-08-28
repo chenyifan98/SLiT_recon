@@ -18,17 +18,17 @@ email: qhdai@tsinghua.edu.cn
 - data and PSF: https://doi.org/10.5281/zenodo.13367201
 
 # run the project
-Run Main_PipeLine_V31x_1.py first. Then run Main_PipeLine_V31x_1.py or Main_PipeLine_V31x_2.py to get high quality results
+Run Main_PipeLine_V31x_1.py first. Then run Main_PipeLine_V34x_1.py or Main_PipeLine_V34x_2.py to get high quality results
 
 - Code\210629_fishR_ballG_1750_6_ReOrder_ReAlign_Cut359_Cx194\Main_PipeLine_V31x_1.py
 
 Sequential intensity reconstruction and phase reconstruction of zebrafish and fluorescent beads under 488 excitation light, 359^3 reconstruction volume
 
-- Code\210629_fishR_ballG_1750_6_ReOrder_ReAlign_Cut359_Cx194\Main_PipeLine_V31x_1.py
+- Code\210629_fishR_ballG_1750_6_ReOrder_ReAlign_Cut359_Cx194\Main_PipeLine_V34x_1.py
 
 High-precision global optimized intensity reconstruction of zebrafish and fluorescent beads under 488 excitation light, 721^3 reconstruction volume
 
-- Code\210629_fishR_ballG_1750_6_ReOrder_ReAlign_Cut359_Cx194\Main_PipeLine_V31x_2.py
+- Code\210629_fishR_ballG_1750_6_ReOrder_ReAlign_Cut359_Cx194\Main_PipeLine_V34x_2.py
 
 High-precision global optimized intensity reconstruction of zebrafish and fluorescent beads under 561 excitation light, 721^3 reconstruction volume
 
