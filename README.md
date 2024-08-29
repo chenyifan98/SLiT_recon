@@ -16,6 +16,7 @@ email: qhdai@tsinghua.edu.cn
 - Cuda version: 11.1
 - pip install -r requirements.txt
 - data and PSF: https://doi.org/10.5281/zenodo.13367201
+- results: https://doi.org/10.5281/zenodo.13384506
 
 # run the project
 Run Main_PipeLine_V31x_1.py first. Then run Main_PipeLine_V34x_1.py or Main_PipeLine_V34x_2.py to get high quality results
