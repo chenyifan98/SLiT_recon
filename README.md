@@ -15,7 +15,7 @@ email: qhdai@tsinghua.edu.cn
 # dependencies
 - Cuda version: 11.1
 - pip install -r requirements.txt
-- Conda-Pack environment: https://zenodo.org/records/13370218
+- Conda-Pack environment: https://doi.org/10.5281/zenodo.13370218
 - data and PSF: https://doi.org/10.5281/zenodo.13367201
 - results: https://doi.org/10.5281/zenodo.13384506
 
