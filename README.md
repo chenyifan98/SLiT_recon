@@ -34,8 +34,6 @@ High-precision global optimized intensity reconstruction of zebrafish and fluore
 
 High-precision global optimized intensity reconstruction of zebrafish and fluorescent beads under 561 excitation light, 721^3 reconstruction volume
 
-run
-
 
 # results
 - Intensity reconstruction result:
